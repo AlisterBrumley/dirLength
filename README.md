@@ -1,3 +1,3 @@
 # dirLength
-reports the amount of files in the directory\
+### report number of files in a directory\
 example: `dirlength ~/Documents`
